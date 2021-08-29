@@ -1,0 +1,10 @@
+__pycache__
+*.pdf
+result.txt
+*.bak
+results
+results/results.txt
+results/*.pdf
+dataset/mnist_train.csv
+dataset/mnist_test.csv
+#*.model
