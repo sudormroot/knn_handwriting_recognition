@@ -1,6 +1,6 @@
 __pycache__
-*.pdf
 result.txt
+.ipynb_checkpoints
 *.bak
 results
 results/results.txt
